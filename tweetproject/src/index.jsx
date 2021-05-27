@@ -1,10 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Tweets from "./components/Tweets";
 
 const App =() =>{
     return(
         <div>
-            <h1>Tweeter Project</h1>
+           <Tweets/>
         </div>
 
     )
