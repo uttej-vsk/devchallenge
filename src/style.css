@@ -1,0 +1,14 @@
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+
+}
+
+.onSale{
+    color: green;
+    background-color: yellow;
+    border: black 1px solid;
+}
